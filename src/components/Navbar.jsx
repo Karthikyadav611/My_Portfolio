@@ -45,7 +45,7 @@ const Navbar = () => {
 
           {/* LinkedIn Icon */}
           <a
-            href='www.linkedin.com/in/karthikyadavm' // Replace with your actual profile
+            href='https://www.linkedin.com/in/karthikyadavm' // Replace with your actual profile
             target='_blank'
             rel='noopener noreferrer'
           >

@@ -1,5 +1,5 @@
 import React from "react";
-console.log("I am in testimonials")
+//console.log("I am in testimonials")
 const Feedbacks = () => {
   return (
     <div>

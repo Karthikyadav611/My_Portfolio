@@ -1,14 +1,14 @@
 import { BrowserRouter } from "react-router-dom";
 
-import About from "./src/components/About";
-import Contact from "./src/components/Contact";
-import Experience from "./src/components/Experience";
-import Feedbacks from ".src/components/Feedbacks";
-import Hero from "./src/components/Hero";
-import Navbar from "./src/components/Navbar";
-import Tech from "./src/components/Tech";
-import Works from "./src/components/Works";
-import StarsCanvas from "./src/components/canvas/Stars"; // Make sure path is correct
+import About from "./components/About";
+import Contact from "./components/Contact";
+import Experience from "./components/Experience";
+import Feedbacks from "./components/Feedbacks";
+import Hero from "./components/Hero";
+import Navbar from "./components/Navbar";
+import Tech from "./components/Tech";
+import Works from "./components/Works";
+import StarsCanvas from "./components/canvas/Stars"; // Make sure path is correct
 
 const App = () => {
   return (

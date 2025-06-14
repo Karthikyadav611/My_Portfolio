@@ -8,6 +8,8 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import LinkedIn from "./LinkedIn.png"
 import css from "./tech/css.png";
+import mobileimage from "./mobile_image.jpeg"
+
 //import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
@@ -55,4 +57,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  mobileimage,
 };

@@ -103,7 +103,7 @@ const education = [
   },
   {
     degree: "Higher Secondary Education",
-    institution: "Narayana PU College",
+    institution: "LRG Naidu Jr College",
     date: "2022",
   },
 ];

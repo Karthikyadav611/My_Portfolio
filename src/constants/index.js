@@ -95,7 +95,18 @@ const technologies = [
     icon: python,
   }
 ];
-
+const education = [
+  {
+    degree: "B.E Information Science and Engineering",
+    institution: "Cambridge Institute of Technology",
+    date: "2022 - 2026",
+  },
+  {
+    degree: "Higher Secondary Education",
+    institution: "Narayana PU College",
+    date: "2022",
+  },
+];
 const experiences = [
   {
     title: "Fullstack Developer",
@@ -183,4 +194,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+export { services, technologies,education, experiences, projects };

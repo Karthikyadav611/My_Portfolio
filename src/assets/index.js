@@ -8,7 +8,7 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 import LinkedIn from "./LinkedIn.png"
 import css from "./tech/css.png";
-import mobileimage from "./mobile_image.svg"
+import mobileimage from "./mobile_image.png"
 
 //import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";

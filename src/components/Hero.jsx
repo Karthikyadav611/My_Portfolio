@@ -44,7 +44,8 @@ const Hero = () => {
         <img
           src={mobileimage}
           alt='Mobile Visual'
-          className='w-full h-full object-contain absolute bottom-0'
+          className='w-64 h-auto object-contain mx-auto mt-20'
+          style={{ filter: "drop-shadow(0 0 10px #915EFF)" }}
         />
       ) : (
         <ComputersCanvas />

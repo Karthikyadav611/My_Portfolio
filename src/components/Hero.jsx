@@ -44,7 +44,7 @@ const Hero = () => {
         <img
           src={mobileimage}
           alt='Mobile Visual'
-         className='absolute bottom-0 left-1/2 transform -translate-x-1/2 w-[80%] h-auto object-contain'
+         className='absolute bottom-10 left-1/2 transform -translate-x-1/2 w-[80%] h-auto object-contain'
     style={{ filter: "drop-shadow(0 0 10px #915EFF)" }}
         />
       ) : (

@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 
 import { styles } from "../styles";
 import { ComputersCanvas } from "./canvas";
-import mobileimage from "../assets/mobile_image.png"; // <-- Add your mobile-friendly image here
+import mobileimage from "../assets/mobile_image.svg"; // <-- Add your mobile-friendly image here
 
 const Hero = () => {
   const [isMobile, setIsMobile] = useState(false);
